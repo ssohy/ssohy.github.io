@@ -1,5 +1,5 @@
 # Setup
-title: Not Pure Poole
+title: SSO
 description: A simple, beautiful, and powerful Jekyll theme for blogs
 url: https://vszhub.github.io
 avatar: /avatar.jpeg
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: So Hyun Jeon
+  url: https://github.com/ssohy/
+  email: sohyeonj415@gmail.com
